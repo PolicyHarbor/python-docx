@@ -1,10 +1,3 @@
-.. image:: https://travis-ci.org/python-openxml/python-docx.svg?branch=master
-   :target: https://travis-ci.org/python-openxml/python-docx
+This is a fork of the original python-docx project which can found here: https://github.com/python-openxml/python-docx/pulls
 
-*python-docx* is a Python library for creating and updating Microsoft Word
-(.docx) files.
-
-More information is available in the `python-docx documentation`_.
-
-.. _`python-docx documentation`:
-   https://python-docx.readthedocs.org/en/latest/
+This fork exists to allow continued security patching and python version updating of this project now that the original open source project has stopped maintaining it.
